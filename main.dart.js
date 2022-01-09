@@ -54924,7 +54924,7 @@ A.Uy.prototype={}
 A.Db.prototype={}
 A.ol.prototype={}
 A.BA.prototype={
-a1(a,b){return new A.t7(B.CF,"Flutter Deemo",null)}}
+a1(a,b){return new A.t7(B.CF,"Free YouTube Subscribers",null)}}
 A.rw.prototype={
 aO(){return new A.GE(B.n)}}
 A.GE.prototype={
